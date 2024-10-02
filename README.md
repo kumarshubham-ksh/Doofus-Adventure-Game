@@ -1,5 +1,4 @@
 # Doofus Adventure Game
-# Kumar Shubham 21BCE2080
 
 ## Backstory:
 Meet our character Doofus, a cube that loves exploring green platforms called Pulpits. The catch? Pulpits don't last long and disappear within seconds. Doofus has set a challenge to walk on at least 50 Pulpits. 
